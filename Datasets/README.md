@@ -2,11 +2,11 @@ Download datasets from [here](https://drive.google.com/drive/folders/1uQ6QSTeY4B
 
 `H264` <br/>
   `└──`hall <br/>
-        `└──gt` <br/>
-        `├──001.bmp` <br/>
-        `├──002.bmp` <br/>
-        `├── ...    ` <br/>
-        `└──200.bmp` <br/>
+            `└──gt` <br/>
+                        `├──001.bmp` <br/>
+                        `├──002.bmp` <br/>
+                        `├── ...    ` <br/>
+                        `└──200.bmp` <br/>
   `└──`kendo <br/>
   `└──`lovebird <br/>
   `└──`newspaper <br/>
