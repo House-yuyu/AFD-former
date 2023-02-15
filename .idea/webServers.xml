@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="60f0321b-6369-45f3-b706-d01a816ebeaa" name="3090_myDIBR">
+        <fileTransfer rootFolder="/home/zhanghuang_701/zx/Restormer-test" accessType="SFTP" host="10.20.3.245" port="45578" sshConfigId="0c77629e-4196-44e7-ba72-9f0fa5d1d588" sshConfig="root@10.20.3.245:45578 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

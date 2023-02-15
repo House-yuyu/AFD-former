@@ -1,0 +1,26 @@
+# Training configuration
+VERBOSE: False
+
+MODEL:
+  MODE: 'AFD_former'
+
+# Optimization arguments.
+OPTIM:
+  BATCH: 12
+  EPOCHS: 100
+  LR_INITIAL: 3e-4
+  LR_MIN: 1e-6
+  betas: [0.9, 0.999]
+  weight_decay: 0.02
+
+  type: AdamW
+  loss: 3+
+  Scheduler: cosine
+
+TRAINING:
+  RESUME: True
+  TRAIN_PS: 256
+  VAL_PS: 256
+  TRAIN_DIR: '../data/patch_train'    # path to training data
+  VAL_DIR: '../data/patch_val'        # path to validation data
+  SAVE_DIR: '../checkpoints'           # path to save models and images
