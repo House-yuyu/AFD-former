@@ -1,12 +1,8 @@
 Download datasets from [here](https://drive.google.com/drive/folders/1uQ6QSTeY4BqY2PYo3a4BNClJAucDV8-2?usp=sharing) and place them in this directory. Your directory structure should look like this
 
 `H264` <br/>
-  `└──`hall <br/>
-            `└──gt` <br/>
-                        `├──001.bmp` <br/>
-                        `├──002.bmp` <br/>
-                        `├── ...    ` <br/>
-                        `└──200.bmp` <br/>
+  `└──`hall <br/>
+      `├─gt` <br/>
   `└──`kendo <br/>
   `└──`lovebird <br/>
   `└──`newspaper <br/>
