@@ -1,19 +1,26 @@
-Download datasets from [here](https://drive.google.com/drive/folders/1uQ6QSTeY4BqY2PYo3a4BNClJAucDV8-2?usp=sharing) and place them in this directory. Your directory structure should look like this
+Your directory structure should look like this
 
-`test` <br/>
-  `└──`BSD68 <br/>
-  `└──`CBSD68 <br/>
-  `└──`Kodak <br/>
-  `└──`McMaster <br/>
-  `└──`Set12 <br/>
-  `└──`Urban100 <br/>
-  `└──`[SIDD](https://www.eecs.yorku.ca/~kamel/sidd/benchmark.php) <br/>
-      `├──ValidationNoisyBlocksSrgb.mat` <br/>
-      `└──ValidationGtBlocksSrgb.mat` <br/>
-  `└──`[test](https://noise.visinf.tu-darmstadt.de/downloads/) <br/>
-      `├──info.mat` <br/>
-      `└──images_srgb` <br/>
-            `├──0001.mat` <br/>
-            `├──0002.mat` <br/>
-            `├── ...    ` <br/>
-            `└──0050.mat`
+`H264` <br/>
+&nbsp;`└──`hall <br/>
+&emsp;&emsp;`└──`1 <br/>
+&emsp;&emsp;&emsp;&emsp;`├──denoised_0.png` <br/>
+&emsp;&emsp;&emsp;&emsp;`├──denoised_1.png` <br/>
+&emsp;&emsp;&emsp;&emsp;`├── ...    ` <br/>
+&emsp;&emsp;&emsp;&emsp;`└──denoised_199.png` <br/>
+&emsp;&emsp;`└──`... <br/>
+&emsp;&emsp;`└──`5 <br/>
+&nbsp;`└──`kendo <br/>
+&nbsp;`└──`lovebird <br/>
+&nbsp;`└──`newspaper <br/>
+
+`H265` <br/>
+&nbsp;`└──`hall <br/>
+&nbsp;`└──`kendo <br/>
+&nbsp;`└──`lovebird <br/>
+&nbsp;`└──`newspaper <br/>
+&nbsp;`└──`pantomime <br/>
+  
+`IETR` <br/>
+
+`MCL-3D` <br/>
+  
