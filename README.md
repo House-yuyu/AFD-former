@@ -8,7 +8,7 @@ Guangdong University of Technology, Sun Yat-sen University, Nanyang Technologica
 If you find this work useful for your research, please cite:
 ```
 @artical{zhang2023svqe,
-  title={AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement},
+  title={AFD-former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement},
   author={Zhang, Xu and Cai, Nian and Zhang, Huan and Zhang, Yun and Di, Jianglei and Lin, Weisi},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2023}
