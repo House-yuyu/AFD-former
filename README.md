@@ -15,5 +15,6 @@ If you find this work useful for your research, please cite:
 }
 ```
 ## Download Link
+- Pre-train model [[Google Drive](https://drive.google.com/drive/folders/1MY0spqtkWaPDPK0Yjb2CmM1QczI1yh-Y)]
 ## Contact:
 Please contact me if there is any question (Xu Zhang: zx12220802@163.com).
