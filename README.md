@@ -3,9 +3,9 @@
 Xu Zhang, Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di and Weisi Lin
 
 Guangdong University of Technology, Sun Yat-sen University, Nanyang Technological University
-(![DHAN框图 (1)](https://user-images.githubusercontent.com/93698474/219914969-265f1ae7-37f5-4acf-815c-7a91f858e407.png)
-)
 ***
+![DHAN框图 (1)](https://user-images.githubusercontent.com/93698474/219914969-265f1ae7-37f5-4acf-815c-7a91f858e407.png)
+
 ## Citation:
 If you find this work useful for your research, please cite:
 ```
