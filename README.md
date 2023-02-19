@@ -11,7 +11,11 @@ If you find this work useful for your research, please cite:
   title={AFD-former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement},
   author={Zhang, Xu and Cai, Nian and Zhang, Huan and Zhang, Yun and Di, Jianglei and Lin, Weisi},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2023}
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3241920}}
 }
 ```
 ## Download Link
