@@ -8,18 +8,20 @@ Guangdong University of Technology, Sun Yat-sen University, Nanyang Technologica
 ## Citation:
 If you find this work useful for your research, please consider citing:
 ```
-@article{zhang2023svqe,
-  title={AFD-former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement},
+@ARTICLE{AFD-former,
   author={Zhang, Xu and Cai, Nian and Zhang, Huan and Zhang, Yun and Di, Jianglei and Lin, Weisi},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={33},
+  number={8},
+  pages={3786-3798},
   doi={10.1109/TCSVT.2023.3241920}}
-}
+
 ```
 ## Download Link
-- Pre-train model [[Google Drive](https://drive.google.com/drive/folders/1MY0spqtkWaPDPK0Yjb2CmM1QczI1yh-Y)]
+Pre-train model [[Google Drive](https://drive.google.com/drive/folders/1MY0spqtkWaPDPK0Yjb2CmM1QczI1yh-Y)]
+## Acknowledgement
+This project is mainly based on Restormer, NAFNet, and 
 ## Contact:
 Please contact me if there is any question (Xu Zhang: zx12220802@163.com).
