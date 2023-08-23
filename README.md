@@ -22,6 +22,6 @@ If you find this work useful for your research, please consider citing:
 ## Download Link
 Pre-train model [[Google Drive](https://drive.google.com/drive/folders/1MY0spqtkWaPDPK0Yjb2CmM1QczI1yh-Y)]
 ## Acknowledgement
-This project is mainly based on Restormer, NAFNet, and 
+This project is mainly based on Restormer, NAFNet, and SRMNet
 ## Contact:
 Please contact me if there is any question (Xu Zhang: zx12220802@163.com).
