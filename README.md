@@ -20,7 +20,7 @@ If you find this work useful for your research, please consider citing:
 
 ```
 ## Download Link
-Pre-train model [[Google Drive](https://drive.google.com/drive/folders/1MY0spqtkWaPDPK0Yjb2CmM1QczI1yh-Y)][[Baidu Netdisk](链接：https://pan.baidu.com/s/1aPbwHIEitTSjiAskHGjA_A 
+Pre-train model [[Google Drive](https://drive.google.com/drive/folders/1MY0spqtkWaPDPK0Yjb2CmM1QczI1yh-Y)] or [百度网盘-链接：https://pan.baidu.com/s/1AZAePHEUzL6X1mGtspxcBA 
 提取码：zx1w)]
 ## Acknowledgement
 This project is mainly based on Restormer, NAFNet, and SRMNet
