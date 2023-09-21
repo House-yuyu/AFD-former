@@ -1,4 +1,4 @@
-Your directory structure should look like this
+Your testing data directory structure should look like this 
 
 `H264` <br/>
 &nbsp;`└──`hall <br/>
