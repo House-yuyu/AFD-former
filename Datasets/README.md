@@ -27,9 +27,14 @@ Your testing data directory structure should look like this
 提取码：23pt) or [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1CeyAdQ 
 提取码：23ft)    
   
-### Datasets
-| Setting   | Weather Types          | Datasets                           | Training Configurations  |
+### Details
+| Setting   | Dataset Name          | Index                          | Training Configurations  |
 | :---------: | :----------------------: | :----------------------------------: | :---------------------------------------------------: |
-| Setting 1 | (Rain, RainDrop, Snow) | ([Outdoor-Rain](https://github.com/liruoteng/HeavyRainRemoval), [RainDrop](https://github.com/rui1996/DeRaindrop), [Snow100K](https://sites.google.com/view/yunfuliu/desnownet)) | Uniformly sampling 9000 images pairs                |
-| Setting 2 | (Rain, Haze, Snow)     | ([Rain1400](https://xueyangfu.github.io/projects/cvpr2017.html), [RESIDE](https://sites.google.com/view/reside-dehaze-datasets/reside-v0), [Snow100K](https://sites.google.com/view/yunfuliu/desnownet))       | Uniformly sampling 5000 images pairs                |
-| Setting 3 | (Rain, Haze, Snow)     | (SPA+, [REVIDE](https://github.com/BookerDeWitt/REVIDE_Dataset), RealSnow)            | Uniformly sampling 160000 images patches            |
+| Setting 1 | Balloons              | 1-20 | (24,32)               |
+| Setting 2 | Bookarrival           | 21-30    | Uniformly sampling 5000 images pairs                |
+| Setting 3 | Undodancer            | 31-50            |             |
+| Setting 4 | Gtfly                 | 51-70            |             
+| Setting 5 | Outdoor               | 71-80            |             |
+| Setting 6 | Poznancarpark         | 81-100            |             |
+| Setting 7 | PoznanStreet          | 101-120            |             |
+| Setting 8 | Shark                 | 121-140            |             |
