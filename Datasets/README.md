@@ -1,6 +1,6 @@
-## Train datasets
-### Download
-[**Patch-training**](https://pan.baidu.com/s/1VIVj5alhlNEG9Kg6cfmSvA?pwd=23nt)|[**Full-image-training**](https://pan.baidu.com/s/1LVM8CVcvTe0fh232eo5bKA?pwd=23nt)    
+# Train datasets
+### Download [Baidu Netdisk link]
+[[**Patch-training**](https://pan.baidu.com/s/1VIVj5alhlNEG9Kg6cfmSvA?pwd=23nt)]|[[**Full-image-training**](https://pan.baidu.com/s/1LVM8CVcvTe0fh232eo5bKA?pwd=23nt)]    
   
 ### Details
 | Setting   | Dataset Name          | Index                          |
@@ -17,8 +17,8 @@
 Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 
 ## Test datasets
-### Download
-|  Types          | Datasets[Baidu Netdisk link]                            | 
+### Download [Baidu Netdisk link]
+|  Types          | Datasets                            | 
 | :-------------: | :---------------------------------: |
 | H.264           | [newspaper](https://pan.baidu.com/s/1iDTaZpWoDDxAJfkPRiWqrw?pwd=23nt) |
 | H.264           | [poznanHall2](https://pan.baidu.com/s/19B4_3sz7EGm7xmBajjtmZw?pwd=23nt) | 
