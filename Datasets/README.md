@@ -19,6 +19,20 @@ or [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1C
 Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 
 ## Test datasets
+### Download
+|  Types          | Datasets                            | 
+| :-------------: | :---------------------------------: |
+| H.264           | ([Outdoor-Rain](https://github.com/liruoteng/HeavyRainRemoval), [RainDrop](https://github.com/rui1996/DeRaindrop), [Snow100K](https://sites.google.com/view/yunfuliu/desnownet)) |
+| H.264           | ([Rain1400](https://xueyangfu.github.io/projects/cvpr2017.html), [RESIDE](https://sites.google.com/view/reside-dehaze-datasets/reside-v0) | 
+| H.264           |         | 
+| H.264           |         | 
+| H.265           |         | 
+| H.265           |         | 
+| H.265           |         | 
+| H.265           |         | 
+|___H.265 ________|         | 
+| MCL-3D          |         | 
+
 Your testing data directory structure should look like this 
 
 `H264` <br/>
