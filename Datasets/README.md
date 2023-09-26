@@ -15,7 +15,7 @@ or [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1C
 | NO. 6 | Poznancarpark         | l1~l5:81-100            |            
 | NO. 7 | PoznanStreet          | l1~l5:-120            |            
 | NO. 8 | Shark                 | l1~l5:121-140            |            
-
+Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 
 ## Test datasets
 Your testing data directory structure should look like this 
