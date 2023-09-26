@@ -1,6 +1,5 @@
 ## Train datasets
-[**Patch-training**](链接：https://pan.baidu.com/s/16TNGBexDyRwWlrrr8Wn23g 提取码：23pt)| [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1CeyAdQ 
-提取码：23ft)    
+[**Patch-training**](https://pan.baidu.com/s/1VIVj5alhlNEG9Kg6cfmSvA?pwd=23nt)|[**Full-image-training**](https://pan.baidu.com/s/1LVM8CVcvTe0fh232eo5bKA?pwd=23nt)    
   
 ### Details
 | Setting   | Dataset Name          | Index                          |
@@ -20,17 +19,17 @@ Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 ### Download
 |  Types          | Datasets[Baidu Netdisk link]                            | 
 | :-------------: | :---------------------------------: |
-| H.264           | [newspaper](https://pan.baidu.com/s/186wDsBHZ84RVGx_PNWFamQ) |
-| H.264           | [poznanHall2](https://xueyangfu.github.io/projects/cvpr2017.html) | 
-| H.264           | [kendo](https://pan.baidu.com/s/1RWs5Z7_pHGG3Qn1J7YRc4w)        | 
-| H.264           | [lovebird1]()        | 
+| H.264           | [newspaper](https://pan.baidu.com/s/1iDTaZpWoDDxAJfkPRiWqrw?pwd=23nt) |
+| H.264           | [poznanHall2](https://pan.baidu.com/s/19B4_3sz7EGm7xmBajjtmZw?pwd=23nt) | 
+| H.264           | [kendo](https://pan.baidu.com/s/10Dh1bRlqqmIii_Vooo7t-g?pwd=23nt)        | 
+| H.264           | [lovebird1](https://pan.baidu.com/s/1mc89oaiyaQmQpQLgkIhSuw?pwd=23nt)        | 
 | H.265           | [pantomime]()        | 
 | H.265           | [newspaper]()        | 
 | H.265           | [poznanHall2]()        | 
 | H.265           | [kendo]()        | 
 | H.265           | [lovebird1]()        | 
-| MCL-3D          |    [Data](http://mcl.usc.edu/mcl-3d-database/)    | 
-| IETR            |    [Data](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/IETR_DIBR_Database.zip) | 
+| MCL-3D          |    [MCL-3D](http://mcl.usc.edu/mcl-3d-database/)    | 
+| IETR            |    [IETR](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/IETR_DIBR_Database.zip) | 
 
 Your testing data directory structure should look like this 
 
