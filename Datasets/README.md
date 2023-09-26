@@ -20,7 +20,7 @@ Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 ### Download
 |  Types          | Datasets                            | 
 | :-------------: | :---------------------------------: |
-| H.264           | [newspaper](链接：https://pan.baidu.com/s/186wDsBHZ84RVGx_PNWFamQ 提取码：23nt) |
+| H.264           | [newspaper](https://pan.baidu.com/s/186wDsBHZ84RVGx_PNWFamQ)(23nt) |
 | H.264           | [poznanHall2](https://xueyangfu.github.io/projects/cvpr2017.html) | 
 | H.264           | [kendo]()        | 
 | H.264           | [lovebird1]()        | 
