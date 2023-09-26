@@ -1,7 +1,7 @@
 ## Train datasets
 [**Patch-training**](链接：https://pan.baidu.com/s/16TNGBexDyRwWlrrr8Wn23g 
 提取码：23pt) 
-or [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1CeyAdQ 
+| [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1CeyAdQ 
 提取码：23ft)    
   
 ### Details
@@ -30,8 +30,10 @@ Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 | H.265           |         | 
 | H.265           |         | 
 | H.265           |         | 
-|___H.265 ________|         | 
+| H.265           |         | 
 | MCL-3D          |         | 
+| IETR            |    [Data](https://vaader-data.insa-rennes.fr/data/
+stian/ieeetom/IETR_DIBR_Database.zip)     | 
 
 Your testing data directory structure should look like this 
 
