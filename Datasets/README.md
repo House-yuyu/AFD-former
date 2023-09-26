@@ -26,3 +26,9 @@ Your testing data directory structure should look like this
 [**百度网盘**](链接：https://pan.baidu.com/s/10GXkG2Nf6VeRmbJjPR7zbA 
 提取码：zxyy)    
   
+## Datasets
+| Setting   | Weather Types          | Datasets                           | Training Configurations  |
+| :---------: | :----------------------: | :----------------------------------: | :---------------------------------------------------: |
+| Setting 1 | (Rain, RainDrop, Snow) | ([Outdoor-Rain](https://github.com/liruoteng/HeavyRainRemoval), [RainDrop](https://github.com/rui1996/DeRaindrop), [Snow100K](https://sites.google.com/view/yunfuliu/desnownet)) | Uniformly sampling 9000 images pairs                |
+| Setting 2 | (Rain, Haze, Snow)     | ([Rain1400](https://xueyangfu.github.io/projects/cvpr2017.html), [RESIDE](https://sites.google.com/view/reside-dehaze-datasets/reside-v0), [Snow100K](https://sites.google.com/view/yunfuliu/desnownet))       | Uniformly sampling 5000 images pairs                |
+| Setting 3 | (Rain, Haze, Snow)     | (SPA+, [REVIDE](https://github.com/BookerDeWitt/REVIDE_Dataset), RealSnow)            | Uniformly sampling 160000 images patches            |
