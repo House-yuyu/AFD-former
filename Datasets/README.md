@@ -1,7 +1,5 @@
 ## Train datasets
-[**Patch-training**](链接：https://pan.baidu.com/s/16TNGBexDyRwWlrrr8Wn23g 
-提取码：23pt) 
-| [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1CeyAdQ 
+[**Patch-training**](链接：https://pan.baidu.com/s/16TNGBexDyRwWlrrr8Wn23g 提取码：23pt)| [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1CeyAdQ 
 提取码：23ft)    
   
 ### Details
@@ -22,7 +20,7 @@ Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 ### Download
 |  Types          | Datasets                            | 
 | :-------------: | :---------------------------------: |
-| H.264           | ([Outdoor-Rain](https://github.com/liruoteng/HeavyRainRemoval), [RainDrop](https://github.com/rui1996/DeRaindrop), [Snow100K](https://sites.google.com/view/yunfuliu/desnownet)) |
+| H.264           | [Outdoor-Rain](链接：https://pan.baidu.com/s/186wDsBHZ84RVGx_PNWFamQ 提取码：23nt) |
 | H.264           | ([Rain1400](https://xueyangfu.github.io/projects/cvpr2017.html), [RESIDE](https://sites.google.com/view/reside-dehaze-datasets/reside-v0) | 
 | H.264           |         | 
 | H.264           |         | 
