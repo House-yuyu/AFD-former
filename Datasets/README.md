@@ -18,11 +18,11 @@ Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 
 ## Test datasets
 ### Download
-|  Types          | Datasets                            | 
+|  Types          | Datasets[Baidu Netdisk link]                            | 
 | :-------------: | :---------------------------------: |
-| H.264           | [newspaper](https://pan.baidu.com/s/186wDsBHZ84RVGx_PNWFamQ)(23nt) |
+| H.264           | [newspaper](https://pan.baidu.com/s/186wDsBHZ84RVGx_PNWFamQ) |
 | H.264           | [poznanHall2](https://xueyangfu.github.io/projects/cvpr2017.html) | 
-| H.264           | [kendo]()        | 
+| H.264           | [kendo](https://pan.baidu.com/s/1RWs5Z7_pHGG3Qn1J7YRc4w)        | 
 | H.264           | [lovebird1]()        | 
 | H.265           | [pantomime]()        | 
 | H.265           | [newspaper]()        | 
