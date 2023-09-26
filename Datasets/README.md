@@ -1,4 +1,4 @@
-# Train datasets
+# Training datasets
 ### Download [Baidu Netdisk link]
 [[**Patch-training**](https://pan.baidu.com/s/1VIVj5alhlNEG9Kg6cfmSvA?pwd=23nt)]|[[**Full-image-training**](https://pan.baidu.com/s/1LVM8CVcvTe0fh232eo5bKA?pwd=23nt)]    
   
@@ -16,7 +16,7 @@
 
 Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 
-## Test datasets
+# Testing datasets
 ### Download [Baidu Netdisk link]
 |  Types          | Datasets                            | 
 | :-------------: | :---------------------------------: |
@@ -25,14 +25,14 @@ Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 | H.264           | [kendo](https://pan.baidu.com/s/10Dh1bRlqqmIii_Vooo7t-g?pwd=23nt)        | 
 | H.264           | [lovebird1](https://pan.baidu.com/s/1mc89oaiyaQmQpQLgkIhSuw?pwd=23nt)        | 
 | H.265           | [pantomime]()        | 
-| H.265           | [newspaper]()        | 
+| H.265           | [newspaper](https://pan.baidu.com/s/1NJibsjEue573fxq-SJJs8w?pwd=23nt)        | 
 | H.265           | [poznanHall2]()        | 
-| H.265           | [kendo]()        | 
-| H.265           | [lovebird1]()        | 
-| MCL-3D          |    [MCL-3D](http://mcl.usc.edu/mcl-3d-database/)    | 
-| IETR            |    [IETR](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/IETR_DIBR_Database.zip) | 
+| H.265           | [kendo](https://pan.baidu.com/s/1dif23C0NuYug3Xaw9AdUCg?pwd=23nt)        | 
+| H.265           | [lovebird1](https://pan.baidu.com/s/1TAj47LHAwPFLWQAf7Jbn2Q?pwd=23nt)        | 
+| MCL-3D          | [MCL-3D](http://mcl.usc.edu/mcl-3d-database/)    | 
+| IETR            | [IETR](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/IETR_DIBR_Database.zip) | 
 
-Your testing data directory structure should look like this 
+Your testing data directory structure should look like this: 
 
 `H264` <br/>
 &nbsp;`└──`hall <br/>
