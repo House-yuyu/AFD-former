@@ -32,8 +32,7 @@ Note: l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 | H.265           |         | 
 | H.265           |         | 
 | MCL-3D          |         | 
-| IETR            |    [Data](https://vaader-data.insa-rennes.fr/data/
-stian/ieeetom/IETR_DIBR_Database.zip)     | 
+| IETR            |    [Data](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/IETR_DIBR_Database.zip) | 
 
 Your testing data directory structure should look like this 
 
