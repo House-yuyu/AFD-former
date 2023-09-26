@@ -23,10 +23,11 @@ Your testing data directory structure should look like this
 `MCL-3D` <br/>
 
 ## Train datasets
-[**百度网盘**](链接：https://pan.baidu.com/s/10GXkG2Nf6VeRmbJjPR7zbA 
-提取码：zxyy)    
+[**Patch-training**](链接：https://pan.baidu.com/s/16TNGBexDyRwWlrrr8Wn23g 
+提取码：23pt) or [**Full-image-training**](链接：https://pan.baidu.com/s/1l_gii2wHIEShsQL1CeyAdQ 
+提取码：23ft)    
   
-## Datasets
+### Datasets
 | Setting   | Weather Types          | Datasets                           | Training Configurations  |
 | :---------: | :----------------------: | :----------------------------------: | :---------------------------------------------------: |
 | Setting 1 | (Rain, RainDrop, Snow) | ([Outdoor-Rain](https://github.com/liruoteng/HeavyRainRemoval), [RainDrop](https://github.com/rui1996/DeRaindrop), [Snow100K](https://sites.google.com/view/yunfuliu/desnownet)) | Uniformly sampling 9000 images pairs                |
