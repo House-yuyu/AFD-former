@@ -7,7 +7,7 @@ Guangdong University of Technology, Sun Yat-sen University, Nanyang Technologica
 
 ## Training datasets
 ### Download [Baidu Netdisk link]
-[**Patch-training**](https://pan.baidu.com/s/1VIVj5alhlNEG9Kg6cfmSvA?pwd=23nt)|[**Full-image-training**](https://pan.baidu.com/s/1LVM8CVcvTe0fh232eo5bKA?pwd=23nt)   
+[**Patch-image**](https://pan.baidu.com/s/1VIVj5alhlNEG9Kg6cfmSvA?pwd=23nt) | [**Full-image**](https://pan.baidu.com/s/1LVM8CVcvTe0fh232eo5bKA?pwd=23nt)   
   
 ### Details
 | Setting   | Dataset Name          | Index                          |
@@ -52,7 +52,6 @@ If you find this work useful for your research, please consider citing:
   number={8},
   pages={3786-3798},
   doi={10.1109/TCSVT.2023.3241920}}
-
 ```
 
 ## Pretrained model
