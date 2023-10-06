@@ -8,6 +8,8 @@ Guangdong University of Technology, Sun Yat-sen University, Nanyang Technologica
 ## Training datasets
 ### Download [Baidu Netdisk link]
 [**Patch-image**](https://pan.baidu.com/s/1VIVj5alhlNEG9Kg6cfmSvA?pwd=23nt) | [**Full-image**](https://pan.baidu.com/s/1LVM8CVcvTe0fh232eo5bKA?pwd=23nt)   
+**Note**:  
+* Patch-image includes training and validation datasets.
   
 ### Details
 | Setting   | Dataset Name          | Index                          |
