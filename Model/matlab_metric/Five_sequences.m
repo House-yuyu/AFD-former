@@ -1,0 +1,7 @@
+VVIqa_temporal_VVI_kendo
+VVIqa_temporal_VVI_lovebird1
+VVIqa_temporal_VVI_newspaper
+VVIqa_temporal_VVI_poznanHall2
+VVIqa_temporal_VVI_pantomime
+
+
