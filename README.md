@@ -1,17 +1,23 @@
 ## AFD-former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement [[IEEE TCSVT 2023](https://ieeexplore.ieee.org/abstract/document/10036109)]
+<a href='https://ieeexplore.ieee.org/abstract/document/10036109'><img src='https://ieeexplore.ieee.org/abstract/document/10036109/badge'></a> &nbsp;&nbsp;
+
 Xu Zhang, Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di and Weisi Lin
 
 Guangdong University of Technology, Sun Yat-sen University, Nanyang Technological University
 ***
+
+## 🔎 Framework
 ![DHAN框图 (1)](https://user-images.githubusercontent.com/93698474/219914969-265f1ae7-37f5-4acf-815c-7a91f858e407.png)
 
-## Training datasets
+## 📌 TODO
+- [ ] Datasets
+
+
+## 📷 Training datasets
 ### Download [Baidu Netdisk link]
 [**Patch-image**](https://pan.baidu.com/s/1VIVj5alhlNEG9Kg6cfmSvA?pwd=23nt) | [**Full-image**](https://pan.baidu.com/s/1LVM8CVcvTe0fh232eo5bKA?pwd=23nt)   
-**Note**:  
-* Patch-image includes training and validation datasets.
-  
-### Details
+
+### 📏 Details
 | Setting   | Dataset Name          | Index                          |
 | :-------: | :-------------------: | :----------------------------: |
 | NO. 1 | Balloons              | l1~l5:1-20                     | 
@@ -24,10 +30,11 @@ Guangdong University of Technology, Sun Yat-sen University, Nanyang Technologica
 | NO. 8 | Shark                 | l1~l5:121-140            |            
 
 **Note**:  
+* Patch-image includes training and validation datasets.
 * l1~l5 represent the distortion levels from 1 to 5, ordered by severity.
 
-## Testing datasets
-### Download [Baidu Netdisk link]
+## 📷 Testing datasets
+### 📏 Details
 |  Types          | Datasets                            | 
 | :-------------: | :---------------------------------: |
 | H.264           | [newspaper](https://pan.baidu.com/s/1iDTaZpWoDDxAJfkPRiWqrw?pwd=23nt) |
@@ -42,7 +49,7 @@ Guangdong University of Technology, Sun Yat-sen University, Nanyang Technologica
 | MCL-3D          | [MCL-3D](http://mcl.usc.edu/mcl-3d-database/)    | 
 | IETR            | [IETR](https://vaader-data.insa-rennes.fr/data/stian/ieeetom/IETR_DIBR_Database.zip) | 
 
-## Citation
+## 🎓 Citation
 If you find this work useful for your research, please consider citing:
 ```
 @ARTICLE{AFD-former,
@@ -56,11 +63,16 @@ If you find this work useful for your research, please consider citing:
   doi={10.1109/TCSVT.2023.3241920}}
 ```
 
-## Pretrained model
+## 🍺 Pretrained model
 [Google Drive](https://drive.google.com/drive/folders/1MY0spqtkWaPDPK0Yjb2CmM1QczI1yh-Y) | [百度网盘](https://pan.baidu.com/s/10KfHP-SN2wVlEzCrdH-I8w?pwd=23nt) 
 
-## Acknowledgement
-This project is mainly based on Restormer, NAFNet, and SRMNet
+## ❤️ Acknowledgement
+This project is mainly based on Restormer, NAFNet, and SRMNet. Thanks for their awesome works.
 
-## Contact
-Please contact me if there is any question (Xu Zhang: zx12220802@163.com).
+## 📧 Contact
+Please feel free to contact if there is any question (Xu Zhang: zx12220802@163.com).
+
+<!--(⚙️ Dependencies and Installation; :hugs:; :star:; 🚀📢🔥🎅🎄🍺📏)-->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=House-yuyu/AFD-former)
+
