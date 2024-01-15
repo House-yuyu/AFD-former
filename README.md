@@ -1,10 +1,9 @@
 ## AFD-former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement [[IEEE TCSVT 2023](https://ieeexplore.ieee.org/abstract/document/10036109)]
-<a href='https://ieeexplore.ieee.org/abstract/document/10036109'><img src='https://ieeexplore.ieee.org/abstract/document/10036109/badge'></a> &nbsp;&nbsp;
+<a href='https://ieeexplore.ieee.org/abstract/document/10036109'><img src='https://img.shields.io/badge/IEEE TCSVT 2023-10036109.svg'></a> &nbsp;&nbsp; 
 
-Xu Zhang, Nian Cai, Huan Zhang, Yun Zhang, Jianglei Di and Weisi Lin
+[Xu Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AH70aAWtx1iZq4HKxDbyL0qpc4nqAVPwQVafhr159vwV-LmLTU-ZMvIXpISZyLzsQSyy2mrN3QOg_n074egb6n7BNFKNIBI&user=xDDy-DwAAAAJ)<sup>1</sup>, [Nian Cai](https://scholar.google.com.hk/citations?hl=zh-CN&user=hxDRrEQAAAAJ&view_op=list_works)<sup>1</sup>, [Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN)<sup>1</sup>, [Yun Zhang](https://scholar.google.com.hk/citations?user=tZp-uVoAAAAJ&hl=zh-CN)<sup>2</sup>, [Jianglei Di](https://scholar.google.com.hk/citations?user=QlJKQxEAAAAJ&hl=zh-CN)<sup>1</sup>, [Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN)<sup>3</sup>,  
+<sup>1</sup>Guangdong University of Technology, <sup>2</sup>Sun Yat-sen University, <sup>3</sup>Nanyang Technological University.
 
-Guangdong University of Technology, Sun Yat-sen University, Nanyang Technological University
-***
 
 ## 🔎 Framework
 ![DHAN框图 (1)](https://user-images.githubusercontent.com/93698474/219914969-265f1ae7-37f5-4acf-815c-7a91f858e407.png)
