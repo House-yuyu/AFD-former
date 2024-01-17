@@ -1,5 +1,5 @@
 ## AFD-former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement  
-<a href='https://ieeexplore.ieee.org/abstract/document/10036109'><img src='https://img.shields.io/badge/IEEE TCSVT 2023-10036109.svg'></a> &nbsp;&nbsp; 
+<a href='https://ieeexplore.ieee.org/abstract/document/10036109'><img src='https://img.shields.io/badge/IEEE TCSVT 2023-10036109.svg'></a> &nbsp;&nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=House-yuyu/AFD-former) 
 
 [Xu Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AH70aAWtx1iZq4HKxDbyL0qpc4nqAVPwQVafhr159vwV-LmLTU-ZMvIXpISZyLzsQSyy2mrN3QOg_n074egb6n7BNFKNIBI&user=xDDy-DwAAAAJ)<sup>1</sup>, [Nian Cai](https://scholar.google.com.hk/citations?hl=zh-CN&user=hxDRrEQAAAAJ&view_op=list_works)<sup>1</sup>, [Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN)<sup>1</sup>, [Yun Zhang](https://scholar.google.com.hk/citations?user=tZp-uVoAAAAJ&hl=zh-CN)<sup>2</sup>, [Jianglei Di](https://scholar.google.com.hk/citations?user=QlJKQxEAAAAJ&hl=zh-CN)<sup>1</sup>, [Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN)<sup>3</sup>,  
 <sup>1</sup>Guangdong University of Technology, <sup>2</sup>Sun Yat-sen University, <sup>3</sup>Nanyang Technological University.
@@ -73,6 +73,3 @@ This project is mainly based on Restormer, NAFNet, and SRMNet. Thanks for their 
 Please feel free to contact if there is any question (Xu Zhang: zx12220802@163.com).
 
 <!--(⚙️ Dependencies and Installation; :hugs:; :star:; 🚀📢🔥🎅🎄🍺📏)-->
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=House-yuyu/AFD-former)
-
